@@ -73,18 +73,6 @@ I build **clean, scalable & user-focused interfaces** using modern tools and bes
 
 ---
 
-## 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IGRIZZ02&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IGRIZZ02&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Let’s Work Together
 
 I’m open to:
