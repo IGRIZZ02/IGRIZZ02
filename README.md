@@ -15,7 +15,7 @@ I turn concepts into production-ready digital products.
 ## 🧠 About Me
 
 👋 Hi, I’m **IGRIZZ** — a **self-taught Frontend Web & App Developer**  
-I specialize in building **clean, scalable & user-focused interfaces** using modern tools and best practices.
+I build **clean, scalable & user-focused interfaces** using modern tools and best practices.
 
 - 👨‍💻 Frontend Web & App Development  
 - 🎨 Strong **UI/UX sense & visual hierarchy**  
@@ -76,11 +76,11 @@ I specialize in building **clean, scalable & user-focused interfaces** using mod
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IGRIZZ02&show_icons=true&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IGRIZZ02&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IGRIZZ02&hide_border=true&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=IGRIZZ02&hide_border=true" />
 </p>
 
 ---
@@ -108,3 +108,4 @@ I’m open to:
 <p align="center">
   <i>IGRIZZ — Turning ideas into digital reality.</i>
 </p>
+
