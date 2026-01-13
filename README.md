@@ -52,24 +52,13 @@ I build **clean, scalable & user-focused interfaces** using modern tools and bes
 ## 🛠️ Tools & Workflow
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,androidstudio" />
 </p>
 
 - Git & GitHub (Version Control)  
 - VS Code (Primary IDE)  
 - Android Studio (App UI Development)  
 - Clean workflow & best practices  
-
----
-
-## 🚀 What I Can Build
-
-✅ Business Websites  
-✅ Landing Pages  
-✅ Admin Dashboards  
-✅ Startup MVPs  
-✅ Web Apps & UI Systems  
-✅ App Frontends (React Native friendly)
 
 ---
 
@@ -80,20 +69,10 @@ I’m open to:
 - 💼 Freelance Projects  
 - 🚀 Startup MVP Development  
 - 🏢 Business & SaaS Solutions  
-- 🤝 Long-Term Collaboration  
-
-📩 **All Official Links:**  
-👉 <a href="https://linktr.ee/IGRIZ_Z"><b>linktr.ee/IGRIZ_Z</b></a>
-
----
-
+- 🤝 Long-Term Collaboration
+  
 <hr/>
 
 <p align="center">
   <b>⚡ Clean Code • Modern UI • Scalable Architecture</b>
 </p>
-
-<p align="center">
-  <i>IGRIZZ — Turning ideas into digital reality.</i>
-</p>
-
