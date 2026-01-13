@@ -13,10 +13,10 @@ I turn concepts into production-ready digital products.
 
 ## 🧠 About Me
 
-👋 Hi, I’m **IGRIZZ** — a **self-taught Frontend Web & App Developer**  
+👋 Hi, I’m **IGRIZZ** — a **self-taught Frontend Web Developer**  
 I build **clean, scalable & user-focused interfaces** using modern tools and best practices.
 
-- 👨‍💻 Frontend Web & App Development  
+- 👨‍💻 Frontend Web Development  
 - 🎨 Strong **UI/UX sense & visual hierarchy**  
 - ⚙️ Clean, reusable & maintainable code  
 - 📈 Helping **startups, brands & businesses** grow digitally  
