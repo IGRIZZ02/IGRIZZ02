@@ -11,7 +11,7 @@ I turn concepts into production-ready digital products.
 
 ---
 
-## 🧠 About Me
+## 🧠 ABOUT ME
 
 👋 Hi, I’m **IGRIZZ** — a **self-taught Frontend Web Developer**  
 I build **clean, scalable & user-focused interfaces** using modern tools and best practices.
@@ -24,7 +24,7 @@ I build **clean, scalable & user-focused interfaces** using modern tools and bes
 
 ---
 
-## 🌐 Frontend Tech Stack
+## 🌐 FRONTEND TECH STACK
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
@@ -36,7 +36,7 @@ I build **clean, scalable & user-focused interfaces** using modern tools and bes
 
 ---
 
-## 🎯 Programming Languages
+## 🎯 PROGRAMING LANGUAGES
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python" />
@@ -48,7 +48,7 @@ I build **clean, scalable & user-focused interfaces** using modern tools and bes
 
 ---
 
-## 🛠️ Tools & Workflow
+## 🛠️ TOOLS & WORKFLOW
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,vscode" />
@@ -61,7 +61,7 @@ I build **clean, scalable & user-focused interfaces** using modern tools and bes
 
 ---
 
-## 🤝 Let’s Work Together
+## 🤝 LET'S WORK TOGETHER
 
 I’m open to:
 
