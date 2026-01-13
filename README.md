@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Frontend Web Developer</h1>
+<h1 align="center">Frontend Web Developer 💠 </h1>
 
 <p align="center">
 From <b>idea</b> → <b>design</b> → <b>development</b> → <b>deployment</b><br/>
