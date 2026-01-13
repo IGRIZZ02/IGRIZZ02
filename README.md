@@ -1,5 +1,4 @@
-<h1 align="center">🚀 Frontend Web & App Developer</h1>
-<h3 align="center">Modern • Scalable • High-Performance Digital Experiences</h3>
+<h1 align="center">🚀 Frontend Web Developer</h1>
 
 <p align="center">
 From <b>idea</b> → <b>design</b> → <b>development</b> → <b>deployment</b><br/>
@@ -52,7 +51,7 @@ I build **clean, scalable & user-focused interfaces** using modern tools and bes
 ## 🛠️ Tools & Workflow
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 - Git & GitHub (Version Control)  
